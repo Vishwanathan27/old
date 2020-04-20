@@ -1,0 +1,40 @@
+body
+{
+background-color:#efa8e4;
+font-family: 'Ubuntu', sans-serif;
+color: #b80d57;
+}
+hr
+{
+  border-style: dotted none none;
+  width: 4%;
+border-color: #b21f66;
+  border-width: 6px;
+}
+h1
+{
+color: #84142d;
+}
+h2
+{
+color: #84142d;
+}
+h3
+{
+color: #84142d;
+}
+/*****************images***************/
+.bike:hover
+{
+  background-color: #b21f66;;
+}
+.heart
+{
+  height: 55px;
+  width: 55px;
+
+}
+.heart:hover
+{
+  background-color: #b21f66;
+}
